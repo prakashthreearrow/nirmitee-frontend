@@ -1,5 +1,5 @@
 {
-  "name": "MoneyExch",
+  "name": "nirmitee",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -12,7 +12,8 @@
     "validator": "^13.12.0"
   },
   "scripts": {
-    "start:dev": "react-scripts start"
+    "start:dev": "react-scripts start",
+    "build": "react-scripts build"
   },
   "eslintConfig": {
     "extends": [
